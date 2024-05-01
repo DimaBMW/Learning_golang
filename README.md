@@ -10,3 +10,5 @@ In this repository I will describe the entire path of becoming a golang develope
 
 
 ## 2. I learned golang variables
+## 3. I learned golang constants
+## 4. I learned golang Functions
